@@ -26,7 +26,8 @@ Após clicar em cadastrar, o pedido é adicionado na tabela de exibição da tel
 No fim da tela, colocamos um index de páginas para organizar as quantidades visualizadas dos pedidos em forma de paginação do framework Boostrap5 (pagination)
 
 # TELA
-    
+![print1](https://github.com/luizcarmo1/P1_FRONT_3B/assets/112274843/0e50afbf-a598-48a7-8636-811eb3e5d4c4)
 
+![print2](https://github.com/luizcarmo1/P1_FRONT_3B/assets/112274843/cb2a31cd-f842-4195-969d-50b67298d3b1)
 
-# Página Index 
+![print3](https://github.com/luizcarmo1/P1_FRONT_3B/assets/112274843/700f05d2-7593-4958-9b40-eb23392ddccf)
